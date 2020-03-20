@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "113588752323",
+    "firebase_url": "https://track-657e3.firebaseio.com",
+    "project_id": "track-657e3",
+    "storage_bucket": "track-657e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113588752323:android:66f31a47c41d1f61837776",
+        "android_client_info": {
+          "package_name": "com.codewithprakhar.track"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113588752323-reqlkenhk6vng1c8ip947up091hv4ltq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD72JUmZlPgZydoT1iFt1R93CvpAUyM_Ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113588752323-reqlkenhk6vng1c8ip947up091hv4ltq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
